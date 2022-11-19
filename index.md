@@ -1,2 +1,1 @@
-# [🌱 green-leaf-mongo]([/least-github-pages/contact.html](https://greenleafoss.github.io/green-leaf-mongo/))
-
+# [🌱 green-leaf-mongo](https://greenleafoss.github.io/green-leaf-mongo/)
